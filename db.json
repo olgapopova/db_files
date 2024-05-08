@@ -1,4 +1,4 @@
-"products": [
+{"products": [
     {
       "id": 1,
       "name": "Smartphone",
@@ -27,3 +27,4 @@
       "category": "Electronics"
     }
   ]
+}
