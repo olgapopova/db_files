@@ -1,0 +1,29 @@
+ [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "image":"https://www.cnet.com/a/img/resize/592e5101f4fee1caf72f9e0169c8784ddf9eb12a/hub/2023/05/04/31dfdcf2-1ac3-4320-b40c-4c356300f06e/google-pixel-7a-phone-14.jpg?auto=webp&fit=crop&height=576&width=768",
+      "brand": "XYZ",
+      "price": 499.99,
+      "description": "A high-quality smartphone with advanced features.",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "image":"https://media.product.which.co.uk/prod/images/original/22a475e555d7-best-laptop-deals.jpg",
+      "brand": "ABC",
+      "price": 899.99,
+      "description": "A powerful laptop for work and play for your pleasure",
+      "category": "Electronics"
+    },   
+    {
+      "id": 3,
+      "name": "Headphones",
+      "image":"https://cdn.mos.cms.futurecdn.net/fsDKHB3ZyNJK6zMpDDBenB-1200-80.jpg",
+      "brand": "Sony",
+      "price": 149.99,
+      "description": "High-fidelity headphones for immersive audio experience.",
+      "category": "Electronics"
+    }
+  ]
